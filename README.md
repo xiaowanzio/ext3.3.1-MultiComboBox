@@ -1,5 +1,3 @@
----
-
 # Ext.ux.form.MultiComboBox
 
 基于 **ExtJS 3.x** 扩展的多选下拉框组件。
